@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal">
+    <sp_portal action="INSERT_OR_UPDATE">
+        <css_variables/>
+        <dark_theme/>
+        <default>false</default>
+        <enable_ais>false</enable_ais>
+        <enable_certificate_based_authentication>false</enable_certificate_based_authentication>
+        <enable_favorites>false</enable_favorites>
+        <hide_portal_name>false</hide_portal_name>
+        <homepage display_value="vm_home">ebb1a55483a01210e7a6f629feaad325</homepage>
+        <icon/>
+        <kb_knowledge_base/>
+        <kb_knowledge_page display_value="vm_home">ebb1a55483a01210e7a6f629feaad325</kb_knowledge_page>
+        <login_page display_value="vm_home">ebb1a55483a01210e7a6f629feaad325</login_page>
+        <logo/>
+        <notfound_page/>
+        <quick_start_config/>
+        <rtl_enabled>false</rtl_enabled>
+        <sc_catalog/>
+        <sc_catalog_page display_value="vm_home">ebb1a55483a01210e7a6f629feaad325</sc_catalog_page>
+        <sc_category_page display_value="vm_home">ebb1a55483a01210e7a6f629feaad325</sc_category_page>
+        <search_application/>
+        <search_results_configuration/>
+        <sp_chat_queue/>
+        <sp_rectangle_menu/>
+        <sys_class_name>sp_portal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 16:19:54</sys_created_on>
+        <sys_id>02c135eb83101210e7a6f629feaad33b</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>Vehicle Management Portal</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1426255_lva">0cb2d84c83081210e7a6f629feaad30b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">0cb2d84c83081210e7a6f629feaad30b</sys_scope>
+        <sys_update_name>sp_portal_02c135eb83101210e7a6f629feaad33b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-05 23:12:50</sys_updated_on>
+        <theme/>
+        <title>Vehicle Management Portal</title>
+        <ts_index_group/>
+        <url_suffix>loanerlink</url_suffix>
+    </sp_portal>
+    <sys_translated_text action="delete_multiple" query="documentkey=02c135eb83101210e7a6f629feaad33b"/>
+</record_update>
